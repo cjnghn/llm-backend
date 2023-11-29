@@ -1,0 +1,39 @@
+{
+  "name": "server",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bun run --hot src/index.ts",
+    "generate": "drizzle-kit generate:pg",
+    "push": "drizzle-kit push:pg",
+    "studio": "drizzle-kit studio"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.5",
+    "bun-types": "latest",
+    "drizzle-kit": "^0.19.13"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/cookie": "^0.7.0",
+    "@elysiajs/cors": "^0.7.0",
+    "@elysiajs/stream": "^0.7.0",
+    "@elysiajs/swagger": "^0.7.0",
+    "@sinclair/typebox": "^0.31.22",
+    "@t3-oss/env-core": "^0.7.1",
+    "@types/bull": "^4.10.0",
+    "bull": "^4.11.4",
+    "dotenv": "^16.3.1",
+    "drizzle-orm": "^0.28.6",
+    "drizzle-typebox": "^0.1.1",
+    "elysia": "^0.7.24",
+    "ioredis": "^5.3.2",
+    "jsonwebtoken": "^8.5.1",
+    "openai": "^4.15.4",
+    "pg": "^8.11.3",
+    "postgres": "^3.4.3"
+  }
+}

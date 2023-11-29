@@ -1,0 +1,62 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1699323931915,
+      "tag": "0000_tiresome_ego",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1699332363443,
+      "tag": "0001_wild_leech",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1699334737963,
+      "tag": "0002_curly_stardust",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1699338938486,
+      "tag": "0003_lyrical_lockheed",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1699339465152,
+      "tag": "0004_clammy_xorn",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1699421440004,
+      "tag": "0005_hard_namorita",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1699444455487,
+      "tag": "0006_tiresome_mikhail_rasputin",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1699446379812,
+      "tag": "0007_solid_sage",
+      "breakpoints": true
+    }
+  ]
+}

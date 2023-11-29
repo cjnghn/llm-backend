@@ -1,0 +1,1 @@
+ALTER TABLE "task" RENAME COLUMN "data" TO "variables";
